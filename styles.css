@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #222;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.page-heading {
+    padding: 0.5em 0.5em;
+    background-color: #333;
+    color: #fff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.7em;
+}
+
+a {
+    padding: 1em;
+    color: #bbb;
+    font-size: 1.5em;
+    text-decoration: none;
+    display: block;
+}
+
+a:nth-of-type(1) {
+    background-color: #444;
+}
+
+a:nth-of-type(2) {
+    background-color: #555;
+}
+
+a:nth-of-type(3) {
+    background-color: #666;
+}
+
+a:hover {
+    background-color: #fff;
+    color: #333;
+}
