@@ -7,57 +7,53 @@ body {
 
 .page-heading {
     padding: 0.5em 0.5em;
-    background-color: #333;
+    background-color: rgb(88, 59, 32);
     color: #fff;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 1.7em;
+    font-size: 2.3em;
 }
 
 a {
     padding: 1em;
-    color: #bbb;
+    color: rgb(185, 185, 185);
     font-size: 1.5em;
     text-decoration: none;
     display: block;
 }
 
 a:nth-of-type(1) {
-    background-color: #404040;
+    background-color: #664f2d;
 }
 
 a:nth-of-type(2) {
-    background-color: #444;
+    background-color: #705936;
 }
 
 a:nth-of-type(3) {
-    background-color: #4f4f4f;
+    background-color: #745e3d;
 }
 
 a:nth-of-type(4) {
-    background-color: #535353;
+    background-color: #7a6647;
 }
 
 a:nth-of-type(5) {
-    background-color: #555;
+    background-color: #857051;
 }
 
 a:nth-of-type(6) {
-    background-color: #5f5f5f;
+    background-color: #927c5c;
 }
 
 a:nth-of-type(7) {
-    background-color: #636363;
+    background-color: #9e8867;
 }
 
 a:nth-of-type(8) {
-    background-color: #666;
-}
-
-a:nth-of-type(9) {
-    background-color: #6f6f6f;
+    background-color: #af9874;
 }
 
 a:hover {
-    background-color: #fff;
-    color: #333;
+    background-color: rgb(70, 120, 139);
+    color: rgb(255, 255, 255);
 }
